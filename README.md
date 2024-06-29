@@ -1,3 +1,6 @@
 # Virtual-CPU-TS
 
-Tasked with creating a virtual CPU in TypeScript that handles interrupts, contains an ASCII encoder, and translates assembly language 
+Created a virtual CPU to:
+  handle interrupts 
+  Include an ASCII encoder
+  Translate 6502 assembly language 
